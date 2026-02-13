@@ -14,7 +14,7 @@
 
 ### Downloading and Unpacking
 1. Go to the [Releases](https://github.com/Kvento/VidCap/releases) section on the repository page.
-2. Download the archive with the latest version of the project (e.g., `IVCap_Editor_v1.0.zip`).
+2. Download the archive with the latest version of the project (e.g., `IVCap_Editor_v1.0.3.zip`).
 3. Unpack the archive into any folder on your computer.
 
 ---
