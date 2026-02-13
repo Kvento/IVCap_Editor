@@ -1,7 +1,7 @@
 {
     "ru": {
         "language_name": "Русский",
-        "title": "VidCap v1.0.3",
+        "title": "IVCap Editor v1.0.3",
         "drop_folder_message": "Пожалуйста, перетащите папку.",
         "language": "Язык",
         "theme": "Тема",
@@ -18,7 +18,7 @@
     },
     "en": {
         "language_name": "English",
-        "title": "VidCap v1.0.3",
+        "title": "IVCap Editor v1.0.3",
         "drop_folder_message": "Please drag and drop a folder.",
         "language": "Language",
         "theme": "Theme",
@@ -35,7 +35,7 @@
     },
     "fr": {
         "language_name": "Français",
-        "title": "VidCap v1.0.3",
+        "title": "IVCap Editor v1.0.3",
         "drop_folder_message": "Veuillez glisser et déposer un dossier.",
         "language": "Langue",
         "theme": "Thème",
@@ -52,7 +52,7 @@
     },
     "de": {
         "language_name": "Deutsch",
-        "title": "VidCap v1.0.3",
+        "title": "IVCap Editor v1.0.3",
         "drop_folder_message": "Bitte ziehen Sie einen Ordner hierher.",
         "language": "Sprache",
         "theme": "Thema",
@@ -69,7 +69,7 @@
     },
     "zh": {
         "language_name": "中国人",
-        "title": "VidCap v1.0.3",
+        "title": "IVCap Editor v1.0.3",
         "drop_folder_message": "请拖拽一个文件夹。",
         "language": "语言",
         "theme": "主题",
